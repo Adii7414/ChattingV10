@@ -1,0 +1,15 @@
+{
+  "id": "jea7rt287h",
+  "accessMode": "external",
+  "envVars": {
+    "ZITE_BOT_API_URL": {
+      "description": "Public webhook URL of the botApi workflow, shown to bot developers on the Developers page"
+    },
+    "ZITE_GIPHY_API_KEY": {
+      "description": "GIPHY API key for GIF search in the composer"
+    },
+    "ZITE_SUPPORT_STAFF_EMAILS": {
+      "description": "Comma-separated emails of staff allowed into the /support panel"
+    }
+  }
+}
